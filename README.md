@@ -9,3 +9,5 @@ commands to use:
 4. delete -id your id,
 5. list,
 6. get-tasks -status your status.
+7. Clear - clears the screen,
+8. quit - exit from the program
